@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Moody
 
-You can use the [editor on GitHub](https://github.com/Mood-Detection/moody.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this work, user’s emotion using its facial expressions will be detected. These expressions can be derived from the live feed via system’s camera or any pre-existing image available in the memory. Emotions possessed by humans can be recognized and has a vast scope of study in the computer vision industry upon which several researches have already been done. The work has been implemented using Python.
 
 ### Markdown
 
