@@ -6,12 +6,13 @@ The project will be interesting, as it is helping people in know what to eat acc
 
 Project is solving real time of world that what to cook. This application will detect the mood of the person and tell the person what to eat. 
 
-### HERE WE SERVE YOU ACCORDING TO YOUR MOOD, KNOW U DON'T HAVE TO WORRY ABOUT FOOD. 
+For more details see 
+### [PURPOSAL](https://github.com/Mood-Detection/moody.github.io/blob/ph-pages/purposal%20mood%20app.docx).
+### [IMPLEMENTATION PLAN](https://github.com/Mood-Detection/moody.github.io/blob/ph-pages/PROJECT%20IMPLEMENTATION%20PLAN.docx).
 
 ```markdown
-For more details see 
-[PURPOSAL](https://github.com/Mood-Detection/moody.github.io/blob/ph-pages/purposal%20mood%20app.docx).
-[IMPLEMENTATION PLAN](https://github.com/Mood-Detection/moody.github.io/blob/ph-pages/PROJECT%20IMPLEMENTATION%20PLAN.docx).
+
+### HERE WE SERVE YOU ACCORDING TO YOUR MOOD, KNOW U DON'T HAVE TO WORRY ABOUT FOOD. 
 
 ```
 
