@@ -1,34 +1,31 @@
-## Welcome to Moody
+## WELCOME TO MOODY
 
-In this work, user’s emotion using its facial expressions will be detected. These expressions can be derived from the live feed via system’s camera or any pre-existing image available in the memory. Emotions possessed by humans can be recognized and has a vast scope of study in the computer vision industry upon which several researches have already been done. The work has been implemented using Python.
+The project will be interesting, as it is helping people in know what to eat according to there taste and  mood. Everyone’s basic need and interest is food. Most of the people daily confuse themself, so by  using this application they can get interesting suggestions. Suggest the food to people according to their mood and interest. 
 
-### Markdown
+### WHAT IT iS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Project is solving real time of world that what to cook. This application will detect the mood of the person and tell the person what to eat. 
+
+### HERE WE SERVE YOU ACCORDING TO YOUR MOOD, KNOW U DON'T HAVE TO WORRY ABOUT FOOD. 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# HOW OUR APP IS WORKING
+### 1.) Scanning the image:
+A raw image is acquired which has to be processed. It can be expressed in form of pixels as stated above. The aim of this step is to extract information which is suitableforcomputing. 
+### 2.) Processing and Enhancing it: 
+The image is converted into digital form by using a digitizer which samples and quantizes the input signals. The rate of sampling should behigh for good resolution andhighquantizationlevelforhumanperceptionofdifferentshadesusingdifferentusinggray-scale 
+### 3.)Result:
+The obtained result describes the property of the image and further classifies the image.
+### 4.) FoodSelection:
+After the mood is predicted the food corresponding to the recognized mood will show the menu which food is suitable to his/her mood. And after or he/she can cook the food or order it from restaurant. The objective of this paper is to develop a system  which can analyze the image and predict the expression of the person. The study proves that this procedure is workable and produces valid results.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see 
+### [PURPOSAL](https://github.com/Mood-Detection/moody.github.io/blob/ph-pages/purposal%20mood%20app.docx).
+### [IMPLEMENTATION PLAN](https://github.com/Mood-Detection/moody.github.io/blob/ph-pages/PROJECT%20IMPLEMENTATION%20PLAN.docx).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mood-Detection/moody.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
