@@ -1,6 +1,6 @@
 ## WELCOME TO MOODY
 
-The project will be interesting, as it is helping people in know what to eat according to there taste and  mood. Everyone’s basic need and interest is food. Most of the people daily confuse themself, so by  using this application they can get interesting suggestions. Suggest the food to people according to their mood and interest. 
+The project will be interesting, as it is helping people to know what to eat according to there taste and  mood. Everyone’s basic need and interest is food. Most of the people daily confuse themself, so by  using this application they can get interesting suggestions. Suggest the food to people according to their mood and interest. 
 
 ### WHAT IT IS
 
